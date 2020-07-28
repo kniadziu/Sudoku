@@ -1,1 +1,1 @@
-![Sudoku](https://github-readme-stats.vercel.app/api/pin/?username=kniadziu&repo=Sudoku)](https://github.com/kniadziu/Sudoku)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kniadziu&repo=Sudoku)](https://github.com/kniadziu/Sudoku)
